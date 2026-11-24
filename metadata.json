@@ -1,0 +1,6 @@
+{
+  "name": "SIMRS RS Sehat Sentosa - Modul Triase IGD",
+  "description": "Purwarupa Sistem Informasi Manajemen Rumah Sakit (SIMRS) Modul Triase dan Pendaftaran Gawat Darurat (IGD) RS Sehat Sentosa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
